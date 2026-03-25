@@ -1,4 +1,4 @@
-Sub SendEmailsFromExcelForUnderConstructionSpecAvailable()
+Sub SendEmailsFromExcelAllAtOnce()
 
     Dim OutlookApp As Object
     Dim OutlookMail As Object
