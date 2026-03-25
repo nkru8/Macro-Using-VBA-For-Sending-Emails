@@ -78,7 +78,7 @@ Sub SendEmailsFromExcelAllAtOnce()
                            
                 .Body = nameStart & "," & vbNewLine & vbNewLine & _
                         bodyText & vbNewLine & vbNewLine & _
-                        "For research purposes. Thank you in advance for your time." & vbNewLine & vbNewLine
+                        "Thank you in advance for your time." & vbNewLine & vbNewLine
                        
                 .Display
             End With
